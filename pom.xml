@@ -15,7 +15,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.2.RELEASE</version>
-        <relativePath /> <!-- lookup parent from repository -->
+        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <dependencies>
@@ -170,7 +170,7 @@
         <dependency>
             <groupId>eu.michael-simons</groupId>
             <artifactId>wro4j-spring-boot-starter</artifactId>
-            <version>0.3.4</version>
+            <version>0.3.5</version>
         </dependency>
         <dependency>
             <groupId>eu.bitwalker</groupId>
