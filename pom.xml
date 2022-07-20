@@ -15,7 +15,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.2.RELEASE</version>
-        <relativePath /> <!-- lookup parent from repository -->
+        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <dependencies>
@@ -165,7 +165,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk</artifactId>
-            <version>1.10.39</version>
+            <version>1.12.264</version>
         </dependency>
         <dependency>
             <groupId>eu.michael-simons</groupId>
